@@ -1,3 +1,3 @@
 # rsschool-cv
 *https://github.com/Dashttv
-*https://Dashttv.github.io/rsschool-cv/
+https://github.com/Dashttv/rsschool-cv.git
